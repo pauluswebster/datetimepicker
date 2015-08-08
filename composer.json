@@ -1,0 +1,14 @@
+{
+    "name": "pauluswebster/xdan-datetimepicker",
+    "description": "Composer package for xdan/datetimepicker",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "homepage": "http://xdsoft.net/jqplugins/datetimepicker/",
+    "authors": [
+      {
+      "name": "Chupurnov Valeriy",
+      "email": "chupurnov@gmail.com",
+      "homepage": "http://xdsoft.net/contacts.html"
+      }
+    ]
+}
